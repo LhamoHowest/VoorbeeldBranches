@@ -1,5 +1,5 @@
 # VoorbeeldTekst
 ## VoorbeeldTekst
 ### Voorbeeldtekst
-dit si gewone tekst
+dit is gewone tekst
 > Tips
