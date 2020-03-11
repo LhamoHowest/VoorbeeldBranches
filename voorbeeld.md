@@ -1,9 +1,5 @@
 # VoorbeeldTekst
-## VoorbeeldTekst
-### Voorbeeldtekst
 dit is gewone tekst
-<<<<<<< HEAD
-=======
 > Tips
 
 
@@ -11,5 +7,4 @@ dit is gewone tekst
 ## VoorbeeldTekst
 ### Voorbeeldtekst
 dit is gewone tekst
->>>>>>> dev
-> Tips
+> Tipss
